@@ -51,7 +51,7 @@ fun main(){
     println(name2.length)
     println(name2.toUpperCase())
 
-    //Further string functions you can learn in online for more 
+    //Further string functions you can learn in online for more
 
 
 
